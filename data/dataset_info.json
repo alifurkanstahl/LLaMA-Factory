@@ -616,6 +616,12 @@
     "columns": {
       "prompt": "content"
     }
+   },
+  "nv": {
+    "hf_hub_url": "c10x/222222222992911041421",
+    "columns": {
+      "prompt": "text"
+    }
   },
   "starcoder_python": {
     "hf_hub_url": "bigcode/starcoderdata",
