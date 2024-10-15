@@ -24,6 +24,11 @@
       "tools": "tools"
     }
   },
+    "chain_of_thought_sharegpt": {
+    "file_name": "chain_of_thought_sharegpt.json",
+    "formatting": "sharegpt",
+    "columns": {
+    },
   "mllm_demo": {
     "file_name": "mllm_demo.json",
     "formatting": "sharegpt",
