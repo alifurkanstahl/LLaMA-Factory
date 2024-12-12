@@ -143,8 +143,8 @@
       "system": "system_prompt"
     }
   },
-  "slimorca": {
-    "hf_hub_url": "Open-Orca/SlimOrca",
+  "1o1": {
+    "hf_hub_url": "C10X/1o1",
     "formatting": "sharegpt"
   },
   "mathinstruct": {
